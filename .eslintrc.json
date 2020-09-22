@@ -46,7 +46,7 @@
       "react/jsx-props-no-spreading": "off",
       "no-unused-expressions": "off",
       "camelcase": "off",
-      "@typescript-eslint/camelcase": "off",
+      "@typescript-eslint/camelcase": "off"
     },
     "settings": {
       "import/resolver": {
