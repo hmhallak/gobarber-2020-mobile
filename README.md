@@ -1,5 +1,8 @@
 
-# Gobarber 2020 Mobile
+<p align="center">
+  <img src="https://i.imgur.com/3eMMRmW.png" height="150" alt="Unform" />
+</p>
+
 
 Gobarber is an app built to help barbers and customers to create and manage their appointments. Barbers can manage daily and monthly availiability, and customers can create appointments with available barbers.
 
@@ -19,7 +22,7 @@ This app consists of an backend API built with NodeJS and Express, a web app bui
    
  - Install and run these containers and then proceed to the Setup section.
 
-## Setup
+## Setup (Mobile)
 - Run the Gobarber backend server
 
 - Install dependencies:
